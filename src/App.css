@@ -1,0 +1,30 @@
+ .app {
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f4f7fb;
+  min-height: 100vh;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+select {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  background: #2575fc;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #1a5edb;
+}
